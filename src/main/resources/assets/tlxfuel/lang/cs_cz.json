@@ -1,0 +1,25 @@
+{
+  "itemGroup.tlxfuel": "TLX: Fuels",
+  "block.tlxfuel.consolidated_coal_block": "Blok zpevněného uhlí",
+  "item.tlxfuel.consolidated_coal": "Zpevněné uhlí",
+  "item.tlxfuel.gildned_coal": "Zlacené uhlí",
+  "item.tlxfuel.biofuel": "Bio palivo",
+  "block.tlxfuel.gildned_coal_block": "Blok zlaceného uhlí",
+  "block.tlxfuel.magnetic_coal_block": "Blok magnetického uhlí",
+  "item.tlxfuel.burning_coil_i": "Hořící cívka (I)",
+  "item.tlxfuel.charged_coal": "Nabité uhlí",
+  "block.tlxfuel.charged_coal_block": "Blok nabitého uhlí",
+  "item.tlxfuel.magnetic_coal": "Magnetické uhlí",
+  "item.tlxfuel.coal_bucket": "Kbelík uhlí",
+  "item.tlxfuel.charcoal_bucket": "Kbelík dřevěného uhlí",
+
+
+  "tooltip.tlxfuel.consolidated_coal.tooltip": "doba hoření: 2000t",
+  "tooltip.tlxfuel.gildned_coal.tooltip": "doba hoření: 2400t",
+  "tooltip.tlxfuel.burning_coil_i.tooltip": "Složka tire 2 paliva",
+  "tooltip.tlxfuel.coal_bucket.tooltip": "doba hoření: 3200",
+  "tooltip.tlxfuel.charcoal_bucket.tooltip": "doba hoření: 3200",
+  "tooltip.tlxfuel.charged_coal.tooltip": "doba hoření: 4200t",
+  "tooltip.tlxfuel.magnetic_coal.tooltip": "doba hoření: 4800t",
+  "tooltip.tlxfuel.biofuel.tooltip": "doba hoření 1600t"
+}

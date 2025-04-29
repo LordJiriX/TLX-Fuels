@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+
+    "B": {
+      "item": "tlxfuel:charged_coal_block"
+    }
+  },
+  "pattern": [
+    "B"
+
+  ],
+  "result": {
+    "count": 9,
+    "id": "tlxfuel:charged_coal"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "itemGroup.tlxfuel": "TLX: Fuels",
+  "block.tlxfuel.consolidated_coal_block": "Consolidated coal block",
+  "item.tlxfuel.consolidated_coal": "Consolidated coal",
+  "item.tlxfuel.gildned_coal": "Gildned coal",
+  "item.tlxfuel.biofuel": "Biofuel",
+  "block.tlxfuel.gildned_coal_block": "Gildned coal block",
+  "block.tlxfuel.magnetic_coal_block": "Magnetic coal block",
+  "item.tlxfuel.burning_coil_i": "Burning coil (I)",
+  "item.tlxfuel.charged_coal": "Charged coal",
+  "block.tlxfuel.charged_coal_block": "Charged coal block",
+  "item.tlxfuel.magnetic_coal": "Magnetic coal",
+  "item.tlxfuel.coal_bucket": "Coal bucket",
+  "item.tlxfuel.charcoal_bucket": "Charcoal bucket",
+
+
+  "tooltip.tlxfuel.consolidated_coal.tooltip": "burn time: 2000t",
+  "tooltip.tlxfuel.gildned_coal.tooltip": "burn time: 2400t",
+  "tooltip.tlxfuel.burning_coil_i.tooltip": "Compomen of tire 2 fuels",
+  "tooltip.tlxfuel.coal_bucket.tooltip": "burn time: 3200",
+  "tooltip.tlxfuel.charcoal_bucket.tooltip": "burn time: 3200",
+  "tooltip.tlxfuel.charged_coal.tooltip": "burn time 4200t",
+  "tooltip.tlxfuel.magnetic_coal.tooltip": "burn time 4800t",
+  "tooltip.tlxfuel.biofuel.tooltip": "burn time 1600t"
+}

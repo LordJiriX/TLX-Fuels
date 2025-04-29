@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "I",
+    "/"
+  ],
+  "key": {
+    "#": {
+      "item": "tlxfuel:charged_coal"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "/": {
+      "item": "tlxfuel:burning_coil_i"
+    }
+  },
+  "result": {
+    "id": "tlxfuel:magnetic_coal",
+    "count": 1
+  }
+}
