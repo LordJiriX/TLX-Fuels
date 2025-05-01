@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tlxfuel:biofuel_block"
+    }
+  ],
+  "result": {
+    "id": "tlxfuel:biofuel",
+    "count": 9
+  }
+}

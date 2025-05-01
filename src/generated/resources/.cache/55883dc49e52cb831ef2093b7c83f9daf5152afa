@@ -1,3 +1,3 @@
-// 1.21.1	2025-04-19T08:55:35.4463231	Tags for minecraft:block mod id tlxfuel
-a3eae47e67a76bacb27960f1c1aceec7b2c31d9d data/minecraft/tags/block/mineable/pickaxe.json
-fe06018d306a7d911b309410a169892c809f265c data/minecraft/tags/block/needs_stone_tool.json
+// 1.21.1	2025-05-01T07:31:59.6219531	Tags for minecraft:block mod id tlxfuel
+6732356ad9c8c4f1240dce800238011ec5e7a668 data/minecraft/tags/block/mineable/pickaxe.json
+fac7f26897ea9d21ae4e6aeae8e2b4b655e7ef98 data/minecraft/tags/block/needs_stone_tool.json

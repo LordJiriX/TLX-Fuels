@@ -23,14 +23,15 @@ public class ModBlockTagProvider extends BlockTagsProvider {
                 .add(ModBlocks.CONSOLIDATED_COAL_BLOCK.get())
                 .add(ModBlocks.MAGNETIC_COAL_BLOCK.get())
                 .add(ModBlocks.CHARGED_COAL_BLOCK.get())
-                .add(ModBlocks.GILDNED_COAL_BLOCK.get());
-               // .add(ModBlocks.BISMUTH_DEEPSLATE_ORE.get());
+                .add(ModBlocks.GILDNED_COAL_BLOCK.get())
+                .add(ModBlocks.BIOFUEL_BLOCK.get());
 
         tag(BlockTags.NEEDS_STONE_TOOL)
                 .add(ModBlocks.CHARGED_COAL_BLOCK.get())
                 .add(ModBlocks.MAGNETIC_COAL_BLOCK.get())
                 .add(ModBlocks.CONSOLIDATED_COAL_BLOCK.get())
-                .add(ModBlocks.GILDNED_COAL_BLOCK.get());
+                .add(ModBlocks.GILDNED_COAL_BLOCK.get())
+                .add(ModBlocks.BIOFUEL_BLOCK.get());
 
 
 

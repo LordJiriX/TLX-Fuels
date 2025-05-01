@@ -65,6 +65,7 @@ public class Tlxfuel {
         output.accept(ModBlocks.GILDNED_COAL_BLOCK.get());
         output.accept(ModBlocks.CHARGED_COAL_BLOCK.get());
         output.accept(ModBlocks.MAGNETIC_COAL_BLOCK.get());
+        output.accept(ModBlocks.BIOFUEL_BLOCK.get());
 
     }).build());
 

@@ -1,12 +1,15 @@
-// 1.21.1	2025-04-19T08:55:35.4083906	Block States: tlxfuel
+// 1.21.1	2025-05-01T07:31:59.6159643	Block States: tlxfuel
+726a65d5ac6b5ab5334c7a3dfd671f556fac38be assets/tlxfuel/blockstates/biofuel_block.json
 8a0cee9111e1daa18746ceb30d3d75dd6b112e0d assets/tlxfuel/blockstates/charged_coal_block.json
 9c6730a50c85a4d2b699acddfa8d2ff31ab80ad7 assets/tlxfuel/blockstates/consolidated_coal_block.json
 445817a9d6c5c5842a7fd7cd1ee95714c226b076 assets/tlxfuel/blockstates/gildned_coal_block.json
 ca3b35f3c121197bb27f63c75cae58730d2b4399 assets/tlxfuel/blockstates/magnetic_coal_block.json
+6642796f4e68f66cd7e6f985c3ee01febaab6d07 assets/tlxfuel/models/block/biofuel_block.json
 8f1d655cbca0d921767485e20cfedb8da8fd5e3b assets/tlxfuel/models/block/charged_coal_block.json
 72b9b022e0c13a78dd2d05a2b98cf1aafef1eb6c assets/tlxfuel/models/block/consolidated_coal_block.json
 eb4ca421b6b71127b5a3863a98d3678d13069fd1 assets/tlxfuel/models/block/gildned_coal_block.json
 2c9bb148a931f9f795a58acb23a883325db189a6 assets/tlxfuel/models/block/magnetic_coal_block.json
+75825503f5b28fce978064eb08c04dd621493d57 assets/tlxfuel/models/item/biofuel_block.json
 fa8dd0d8b7e18e83b4b5e4d3de5bdbf7c6f19e36 assets/tlxfuel/models/item/charged_coal_block.json
 47c890da49c997857427286c852c82e6ca279d61 assets/tlxfuel/models/item/consolidated_coal_block.json
 ba5527d2ce8b9387a39ceb835d468e3164f3af91 assets/tlxfuel/models/item/gildned_coal_block.json

@@ -5,6 +5,7 @@ import io.github.lordjirix.tlxfuel.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.MapColor;
 import net.neoforged.bus.api.IEventBus;
@@ -29,6 +30,9 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> MAGNETIC_COAL_BLOCK = BLOCKS.registerSimpleBlock("magnetic_coal_block", BlockBehaviour.Properties.of().destroyTime(2.2f).requiresCorrectToolForDrops().mapColor(MapColor.STONE));
     public static final DeferredItem<BlockItem> MAGNETIC_COAL_ITEM = ITEMS.registerSimpleBlockItem("magnetic_coal_block", MAGNETIC_COAL_BLOCK);
+
+    public static final DeferredBlock<Block> BIOFUEL_BLOCK = BLOCKS.registerSimpleBlock("biofuel_block", BlockBehaviour.Properties.of().destroyTime(1.5f).requiresCorrectToolForDrops().mapColor(MapColor.STONE).sound(SoundType.AZALEA_LEAVES));
+    public static final DeferredItem<BlockItem> BIOFUEL_ITEM = ITEMS.registerSimpleBlockItem("biofuel_block", BIOFUEL_BLOCK);
 
 
 

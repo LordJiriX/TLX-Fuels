@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tlxfuel:block/biofuel_block"
+    }
+  }
+}

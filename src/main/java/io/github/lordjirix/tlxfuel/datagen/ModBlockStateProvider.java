@@ -19,6 +19,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.GILDNED_COAL_BLOCK);
         blockWithItem(ModBlocks.CHARGED_COAL_BLOCK);
         blockWithItem(ModBlocks.MAGNETIC_COAL_BLOCK);
+        blockWithItem(ModBlocks.BIOFUEL_BLOCK);
 
 
     }

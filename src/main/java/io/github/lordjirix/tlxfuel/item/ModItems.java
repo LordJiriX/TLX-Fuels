@@ -54,7 +54,7 @@ public class ModItems {
             });
 
     public static final DeferredItem<Item> BIOFUEL = ITEMS.register("biofuel",
-            () -> new FuelItem(new Item.Properties().rarity(Rarity.UNCOMMON), 1600){
+            () -> new FuelItem(new Item.Properties().rarity(Rarity.COMMON), 1600){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
                     tooltipComponents.add(Component.translatable("tooltip.tlxfuel.biofuel.tooltip"));
