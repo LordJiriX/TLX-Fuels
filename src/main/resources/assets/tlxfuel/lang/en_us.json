@@ -12,6 +12,7 @@
   "block.tlxfuel.biofuel_block": "Biofuel block",
   "item.tlxfuel.magnetic_coal": "Magnetic coal",
   "item.tlxfuel.coal_bucket": "Coal bucket",
+  "item.tlxfuel.biofuel_bucket": "Biofuel bucket",
   "item.tlxfuel.charcoal_bucket": "Charcoal bucket",
 
 
@@ -20,7 +21,8 @@
   "tooltip.tlxfuel.burning_coil_i.tooltip": "Compomen of tire 2 fuels",
   "tooltip.tlxfuel.coal_bucket.tooltip": "burn time: 3200",
   "tooltip.tlxfuel.charcoal_bucket.tooltip": "burn time: 3200",
-  "tooltip.tlxfuel.charged_coal.tooltip": "burn time 4200t",
-  "tooltip.tlxfuel.magnetic_coal.tooltip": "burn time 4800t",
-  "tooltip.tlxfuel.biofuel.tooltip": "burn time 1600t"
+  "tooltip.tlxfuel.charged_coal.tooltip": "burn time: 4200t",
+  "tooltip.tlxfuel.magnetic_coal.tooltip": "burn time: 4800t",
+  "tooltip.tlxfuel.biofuel.tooltip": "burn time: 1600t",
+  "tooltip.tlxfuel.biofuel_bucket.tooltip": "burn time: 3200t"
 }

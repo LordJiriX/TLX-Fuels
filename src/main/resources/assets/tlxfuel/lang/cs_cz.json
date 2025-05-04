@@ -13,6 +13,7 @@
   "item.tlxfuel.magnetic_coal": "Magnetické uhlí",
   "item.tlxfuel.coal_bucket": "Kbelík uhlí",
   "item.tlxfuel.charcoal_bucket": "Kbelík dřevěného uhlí",
+  "item.tlxfuel.biofuel_bucket": "Kbelík bio paliva",
 
 
   "tooltip.tlxfuel.consolidated_coal.tooltip": "doba hoření: 2000t",
@@ -22,5 +23,6 @@
   "tooltip.tlxfuel.charcoal_bucket.tooltip": "doba hoření: 3200",
   "tooltip.tlxfuel.charged_coal.tooltip": "doba hoření: 4200t",
   "tooltip.tlxfuel.magnetic_coal.tooltip": "doba hoření: 4800t",
-  "tooltip.tlxfuel.biofuel.tooltip": "doba hoření 1600t"
+  "tooltip.tlxfuel.biofuel.tooltip": "doba hoření 1600t",
+  "tooltip.tlxfuel.biofuel_bucket.tooltip": "doba hoření: 3200t"
 }

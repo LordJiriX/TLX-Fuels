@@ -64,7 +64,7 @@ public class ModItems {
             });
 
     public static final DeferredItem<Item> COAL_BUCKET = ITEMS.register("coal_bucket",
-            () -> new FuelItem(new Item.Properties().craftRemainder(Items.BUCKET), 3200){
+            () -> new FuelItem(new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1), 3200){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
                     tooltipComponents.add(Component.translatable("tooltip.tlxfuel.coal_bucket.tooltip"));
@@ -74,10 +74,20 @@ public class ModItems {
             });
 
     public static final DeferredItem<Item> CHARCOAL_BUCKET = ITEMS.register("charcoal_bucket",
-            () -> new FuelItem(new Item.Properties().craftRemainder(Items.BUCKET), 3200){
+            () -> new FuelItem(new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1), 3200){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
                     tooltipComponents.add(Component.translatable("tooltip.tlxfuel.charcoal_bucket.tooltip"));
+                    super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
+                }
+
+            });
+
+    public static final DeferredItem<Item> BIOFUEL_BUCKET = ITEMS.register("biofuel_bucket",
+            () -> new FuelItem(new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1), 3200){
+                @Override
+                public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
+                    tooltipComponents.add(Component.translatable("tooltip.tlxfuel.biofuel_bucket.tooltip"));
                     super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
                 }
 

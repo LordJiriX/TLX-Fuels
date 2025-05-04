@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tlxfuel:biofuel"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "tlxfuel:biofuel"
+    }
+  ],
+  "result": {
+    "id": "tlxfuel:biofuel_bucket",
+    "count": 1
+  }
+}

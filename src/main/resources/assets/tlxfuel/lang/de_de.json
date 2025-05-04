@@ -12,6 +12,7 @@
   "block.tlxfuel.biofuel_block": "Biokraftstoffblock",
   "item.tlxfuel.magnetic_coal": "Magnetische Kohle",
   "item.tlxfuel.coal_bucket": "Kohleschaufel",
+  "item.tlxfuel.biofuel_bucket": "Biokraftstoff-Eimer",
   "item.tlxfuel.charcoal_bucket": "Holzkohleeimer",
 
 
@@ -22,5 +23,6 @@
   "tooltip.tlxfuel.charcoal_bucket.tooltip": "Brenndauer: 3200",
   "tooltip.tlxfuel.charged_coal.tooltip": "Brenndauer: 4200t",
   "tooltip.tlxfuel.magnetic_coal.tooltip": "Brenndauer: 4800t",
-  "tooltip.tlxfuel.biofuel.tooltip": "Brenndauer: 1600t"
+  "tooltip.tlxfuel.biofuel.tooltip": "Brenndauer: 1600t",
+  "tooltip.tlxfuel.biofuel_bucket.tooltip": "Brenndauer: 3200t"
 }
