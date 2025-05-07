@@ -22,6 +22,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.MAGNETIC_COAL.get());
         basicItem(ModItems.BIOFUEL.get());
         basicItem(ModItems.BIOFUEL_BUCKET.get());
+        basicItem(ModItems.ASHED_COIL.get());
 
     }
 }

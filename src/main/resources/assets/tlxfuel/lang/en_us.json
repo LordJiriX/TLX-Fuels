@@ -7,6 +7,7 @@
   "block.tlxfuel.gildned_coal_block": "Gildned coal block",
   "block.tlxfuel.magnetic_coal_block": "Magnetic coal block",
   "item.tlxfuel.burning_coil_i": "Burning coil (I)",
+  "item.tlxfuel.ashed_coil": "Ashed coil",
   "item.tlxfuel.charged_coal": "Charged coal",
   "block.tlxfuel.charged_coal_block": "Charged coal block",
   "block.tlxfuel.biofuel_block": "Biofuel block",
@@ -24,5 +25,6 @@
   "tooltip.tlxfuel.charged_coal.tooltip": "burn time: 4200t",
   "tooltip.tlxfuel.magnetic_coal.tooltip": "burn time: 4800t",
   "tooltip.tlxfuel.biofuel.tooltip": "burn time: 1600t",
-  "tooltip.tlxfuel.biofuel_bucket.tooltip": "burn time: 3200t"
+  "tooltip.tlxfuel.biofuel_bucket.tooltip": "burn time: 3200t",
+  "tooltip.tlxfuel.ashed_coil.tooltip": "Compomen of tire 3 fuels"
 }

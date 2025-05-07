@@ -103,6 +103,16 @@ public class ModItems {
 
             });
 
+    public static final DeferredItem<Item> ASHED_COIL = ITEMS.register("ashed_coil",
+            () -> new Item(new Item.Properties().rarity(Rarity.UNCOMMON)){
+                @Override
+                public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
+                    tooltipComponents.add(Component.translatable("tooltip.tlxfuel.ashed_coil.tooltip"));
+                    super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
+                }
+
+            });
+
 
 
     public static void register(IEventBus eventBus) {

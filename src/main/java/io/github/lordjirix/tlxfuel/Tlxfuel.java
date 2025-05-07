@@ -62,6 +62,7 @@ public class Tlxfuel {
         output.accept(ModItems.CHARCOAL_BUCKET.get());
         output.accept(ModItems.BIOFUEL_BUCKET.get());
         output.accept(ModItems.BURNING_COIL_I.get());
+        output.accept(ModItems.ASHED_COIL.get());
         output.accept(ModBlocks.CONSOLIDATED_COAL_BLOCK.get());
         output.accept(ModBlocks.GILDNED_COAL_BLOCK.get());
         output.accept(ModBlocks.CHARGED_COAL_BLOCK.get());
