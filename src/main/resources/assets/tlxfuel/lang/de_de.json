@@ -14,9 +14,15 @@
 
   "block.tlxfuel.magnetic_coal_block": "Magnetischer Kohleblock",
 
+<<<<<<< HEAD
   "item.tlxfuel.burning_coil_i": "Brennende Spule",
 
   "item.tlxfuel.ashed_coil": "Veraschte Spule",
+=======
+  "item.tlxfuel.burning_coil_i": "Brennende Spule (I)",
+
+"item.tlxfuel.ashed_coil": "Veraschte Spule",
+>>>>>>> 4e7e06740f8d8d3ee67ea6e6ef559970bb44f871
 
 
 
@@ -58,4 +64,8 @@
 
   "tooltip.tlxfuel.ashed_coil.tooltip": "Komponent aus Reifen 3 Kraftstoffe"
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4e7e06740f8d8d3ee67ea6e6ef559970bb44f871
