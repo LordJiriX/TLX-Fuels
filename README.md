@@ -41,3 +41,13 @@ Use JEI/EMI to view recipes
 - **TLX series ?** 
      Yes in progress
 
+## Dev
+ Clone whit git :
+ ```git
+git clone https://github.com/LordJiriX/TLX-Fuels.git
+ ```
+
+Build : 
+```gradle
+./gradlew build
+```
