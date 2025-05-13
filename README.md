@@ -35,8 +35,6 @@ Use JEI/EMI to view recipes
   Why not
 - **TLX series ?**
   Yes in progress
-
-     Maybe in the future
 - **Why this mod ?**
      Why not
 - **TLX series ?** 
