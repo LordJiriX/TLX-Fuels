@@ -1,20 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "/",
-    "C",
-    "/"
+    " / ",
+    "/C/",
+    " / "
   ],
   "key": {
     "/": {
-      "item": "tlxfuels:burning_coil"
+      "item": "minecraft:stick"
     },
     "C": {
-      "item": "tlxfuel:consolidated_coal"
+      "item": "minecraft:coal"
     }
   },
   "result": {
-    "id": "tlxfuel:charged_coal",
+    "id": "tlxfuel:burning_coil",
     "count": 1
   }
 }

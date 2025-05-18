@@ -93,11 +93,11 @@ public class ModItems {
 
             });
 
-    public static final DeferredItem<Item> BURNING_COIL_I = ITEMS.register("burning_coil_i",
+    public static final DeferredItem<Item> BURNING_COIL = ITEMS.register("burning_coil",
             () -> new Item(new Item.Properties()){
                 @Override
                 public void appendHoverText(ItemStack stack, TooltipContext context, List<Component> tooltipComponents, TooltipFlag tooltipFlag) {
-                    tooltipComponents.add(Component.translatable("tooltip.tlxfuel.burning_coil_i.tooltip"));
+                    tooltipComponents.add(Component.translatable("tooltip.tlxfuel.burning_coil.tooltip"));
                     super.appendHoverText(stack, context, tooltipComponents, tooltipFlag);
                 }
 

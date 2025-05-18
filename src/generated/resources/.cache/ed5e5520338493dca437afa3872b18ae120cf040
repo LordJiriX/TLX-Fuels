@@ -1,8 +1,8 @@
-// 1.21.1	2025-05-07T14:38:45.7242738	Item Models: tlxfuel
+// 1.21.1	2025-05-18T09:34:36.4897175	Item Models: tlxfuel
 fba1916213e9859f8fac30a46aabc536557990de assets/tlxfuel/models/item/ashed_coil.json
 f21e94f5ccd72c90d0b13355b6c0e36091bbcbd3 assets/tlxfuel/models/item/biofuel.json
 c0507bf29fe4b821f8879bf81e0ef39d479ef369 assets/tlxfuel/models/item/biofuel_bucket.json
-408400311dc10daedffe5a782075538efe55d78b assets/tlxfuel/models/item/burning_coil_i.json
+9e2726137fe77e123facc2fe5af486f6d0f497de assets/tlxfuel/models/item/burning_coil.json
 0939cb4d89a512094fc7c4463969aba079b2c5d9 assets/tlxfuel/models/item/charcoal_bucket.json
 b6465770fcdc9cabb2598d83ea65a76a8229b72e assets/tlxfuel/models/item/charged_coal.json
 c1ceb7fd2fb336755a7111f1602dcdc07abbb174 assets/tlxfuel/models/item/coal_bucket.json

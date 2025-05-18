@@ -15,7 +15,7 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         basicItem(ModItems.CONSOLIDATED_COAL.get());
         basicItem(ModItems.GILDNED_COAL.get());
-        basicItem(ModItems.BURNING_COIL_I.get());
+        basicItem(ModItems.BURNING_COIL.get());
         basicItem(ModItems.COAL_BUCKET.get());
         basicItem(ModItems.CHARCOAL_BUCKET.get());
         basicItem(ModItems.CHARGED_COAL.get());
