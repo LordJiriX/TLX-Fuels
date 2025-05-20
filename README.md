@@ -2,10 +2,7 @@ Mod from TLX mod series (comming soon)
 
 
 # TLX Fuels
-<<<<<<< HEAD
-=======
 
->>>>>>> 71cde9791a5ed4e0b020f656377bbbdda70e12f6
 This mode adds more fuel
 Some are simple and only there are improvements to coal, but also special
 ## Features
@@ -13,8 +10,7 @@ Some are simple and only there are improvements to coal, but also special
 - Description of the burning time
 - Easy to use
 ### download
-<<<<<<< HEAD
-=======
+
 
 
 This mode adds more fuel 
@@ -26,7 +22,7 @@ Some are simple and only there are improvements to coal, but also special
 ### download 
 
 
->>>>>>> 71cde9791a5ed4e0b020f656377bbbdda70e12f6
+
 [Modrinth](https://modrinth.com/mod/tlx-fuels/versions) - [Github](https://github.com/LordJiriX/TLX-Fuels/)
 ### Note
 Use JEI/EMI to view recipes
@@ -38,9 +34,7 @@ Use JEI/EMI to view recipes
   Why not
 - **TLX series ?**
   Yes in progress
-<<<<<<< HEAD
-=======
-
+  
 
 - **Why this mod ?**
      Why not
@@ -58,4 +52,4 @@ Build :
 ./gradlew build
 ```
 
->>>>>>> 71cde9791a5ed4e0b020f656377bbbdda70e12f6
+
