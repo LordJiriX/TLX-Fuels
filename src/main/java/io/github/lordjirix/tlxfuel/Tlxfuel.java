@@ -52,7 +52,7 @@ public class Tlxfuel {
 
 
 
-    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("example_tab", () -> CreativeModeTab.builder().title(Component.translatable("itemGroup.tlxfuel")).withTabsBefore(CreativeModeTabs.COMBAT).icon(() -> ModItems.CONSOLIDATED_COAL.get().getDefaultInstance()).displayItems((parameters, output) -> {
+    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> TLX_FUELS_TAB = CREATIVE_MODE_TABS.register("tlx-fuels_tab", () -> CreativeModeTab.builder().title(Component.translatable("itemGroup.tlxfuel")).icon(() -> ModItems.CONSOLIDATED_COAL.get().getDefaultInstance()).displayItems((parameters, output) -> {
         output.accept(ModItems.CONSOLIDATED_COAL.get());
         output.accept(ModItems.GILDNED_COAL.get());
         output.accept(ModItems.CHARGED_COAL.get());
@@ -89,10 +89,11 @@ public class Tlxfuel {
 
     private void commonSetup(final FMLCommonSetupEvent event) {
 
-        //LOGGER.info("HELLO FROM COMMON SETUP");
+
 
     }
 
+    
 
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
@@ -105,7 +106,7 @@ public class Tlxfuel {
     public static class ClientModEvents {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
-            // Some client setup code
+
             LOGGER.info("TLX client setup");
 
         }
