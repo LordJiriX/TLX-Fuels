@@ -23,7 +23,7 @@ Some are simple and only there are improvements to coal, but also special
 
 
 
-[Modrinth](https://modrinth.com/mod/tlx-fuels/versions) - [Github](https://github.com/LordJiriX/TLX-Fuels/)
+[Modrinth](https://modrinth.com/mod/tlx-fuels/versions) - [Github](https://github.com/LordJiriX/TLX-Fuels/) - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tlx-fuels)
 ### Note
 Use JEI/EMI to view recipes
 
